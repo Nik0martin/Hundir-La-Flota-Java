@@ -7,6 +7,8 @@ Se debe jugar desde 2 terminales distintas.
 Para ganar se necesita acertar en las coordenadas de una de las partes del barco.  
 Fue un trabajo hecho para aplicar el uso de sockets, por lo que lo que es la jugabilidad no está tan elaborada, pero tengo intención de ampliar para que para ganar se deban hundir todos los barcos y no solo acertar sobre uno, e intentar mejorar la jugabilidad y el aspecto visual. Asi como que los jugadores puedan ver su tablero, esto no se realizó porque no era lo principal de la actividad.
 
+Fue un trabajo de clase no me juzguen por ello jaja
+
 ## Autor  
 Nicolás Martín
 
